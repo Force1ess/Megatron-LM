@@ -1,6 +1,10 @@
 __pycache__
 *.so
 build
+data
+models
+test.ipynb
+config.txt
 .coverage_*
 *.egg-info
 *~
